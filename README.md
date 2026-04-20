@@ -1,0 +1,1 @@
+# Teknofets_Avionic_KiCad
